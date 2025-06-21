@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c58fdd98-68d3-4e38-8863-4a2d8b85b2eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PHP_Get/exo_get-PHP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exos_associatif/ex_TP2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exos_associatif/ex_TP3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo10.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo11.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo12.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo13.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo14.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo6.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo9.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exos_associatif/ex_TP1.php" beforeDir="false" afterPath="$PROJECT_DIR$/exos_associatif/ex_TP1.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../../../../../wamp64/bin/php/php8.3.14/php.exe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ylGqYYttUpKusDlXhMGxTlMl2I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Windows 10/OneDrive/Bureau/Dev/PHP/projet php/pratique_php",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PS-251.26094.133" />
+        <option value="bundled-php-predefined-a98d8de5180a-c5828cf854d9-com.jetbrains.php.sharedIndexes-PS-251.26094.133" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c58fdd98-68d3-4e38-8863-4a2d8b85b2eb" name="Changes" comment="" />
+      <created>1750401937199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750401937199</updated>
+      <workItem from="1750401938398" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

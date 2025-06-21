@@ -1,0 +1,12 @@
+
+body {
+    background: lightsteelblue;
+}
+
+.card {
+    margin-left: 5.5rem;
+    margin-right: 3rem;
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background-color: #d5d596;
+}

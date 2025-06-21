@@ -13,11 +13,40 @@ $personneModif['age'] = 26;
 
 $notes = [
 
-        'maths' => 15,
-        'français' => 12,
-        'histoire' => 13
+    'maths' => 15,
+    'français' => 12,
+    'histoire' => 18
 
 ];
+$matiere = '';
+$ref = 0;
+foreach ($notes as $cle => $val) {
+    if ($val > $ref) {
+        $ref = $val;
+        $matiere = $cle;
+    }
+}
+//echo $ref;
+// echo $matiere;
+
+$couleurs = [
+    'rouge' => '#FF0000',
+    'bleu' => '#0000FF',
+    'vert' => '#008000',
+
+];
+
+
+var_dump($couleurs);
+$stock = [];
+
+foreach ($couleurs as $coul => $val) {
+    $stock[$val] = $coul;
+
+}
+var_dump($stock);
+
+
 ?>
 
 <!doctype html>
@@ -34,8 +63,11 @@ $notes = [
 <p>J'ai <?php echo($personne['age']) ?> ans.</p>
 
 <?php foreach ($notes as $key => $values) : ?>
-<p>La note en <strong><?php echo  $key . ' ' . 'est' . ' '. $values ?></strong></p>
+    <p>La note en <strong><?php echo $key . ' ' . 'est' . ' ' . $values ?></strong></p>
 <?php endforeach; ?>
+<p> La note la plus haute est <?php echo $ref ?> en <?php echo $matiere ?></p>
+
+
 </body>
 </html>
 
